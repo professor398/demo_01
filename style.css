@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(247, 228, 242);
+}
+
+header {
+    margin: 0.1px;
+    padding: 0.01px;
+    color: aqua;
+    background-color: aliceblue;
+}
